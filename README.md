@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Here is IWTBAGD. This is the first repository that i created.
-#### 测试git学习，进行修改
+#### 测试git学习，取得远程数据库
 <!--
 **IWTBAGD/IWTBAGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
