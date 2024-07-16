@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T06:21:48.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="F2nPnsXsdG7QJxX1uozJ" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T08:48:36.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HgTv5FHjVYyEo8srjAIB" version="24.6.5" type="github">
   <diagram name="第 1 页" id="F05l9aFnmWJKwojHecaN">
     <mxGraphModel dx="2158" dy="1572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-9Zzd_e0Hqp7uIsVxWTX-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="-451" width="120" height="60" as="geometry" />
+          <mxGeometry x="-391" y="-452" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-9Zzd_e0Hqp7uIsVxWTX-5" value="常规登录流程" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="-258" y="-637" width="1100" height="917" as="geometry" />
+          <mxGeometry x="-209" y="-677" width="1100" height="917" as="geometry" />
         </mxCell>
         <mxCell id="-9Zzd_e0Hqp7uIsVxWTX-2" value="输入账号与密码" style="rounded=0;whiteSpace=wrap;html=1;" parent="-9Zzd_e0Hqp7uIsVxWTX-5" vertex="1">
-          <mxGeometry x="399" y="125" width="120" height="60" as="geometry" />
+          <mxGeometry x="577" y="125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-9Zzd_e0Hqp7uIsVxWTX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="-9Zzd_e0Hqp7uIsVxWTX-5" source="-9Zzd_e0Hqp7uIsVxWTX-6" target="-9Zzd_e0Hqp7uIsVxWTX-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -42,6 +42,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cMeBgRiUTRAfW4mJI98a-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-9Zzd_e0Hqp7uIsVxWTX-5" source="-9Zzd_e0Hqp7uIsVxWTX-7" target="-9Zzd_e0Hqp7uIsVxWTX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMeBgRiUTRAfW4mJI98a-5" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMeBgRiUTRAfW4mJI98a-4">
+          <mxGeometry x="0.0704" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-9Zzd_e0Hqp7uIsVxWTX-7" value="是否超过免登录时间" style="rhombus;whiteSpace=wrap;html=1;" parent="-9Zzd_e0Hqp7uIsVxWTX-5" vertex="1">
           <mxGeometry x="129" y="237" width="178" height="80" as="geometry" />
         </mxCell>
@@ -52,16 +60,30 @@
           <mxGeometry x="158" y="36" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-9Zzd_e0Hqp7uIsVxWTX-12" value="正式进入后台页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="-9Zzd_e0Hqp7uIsVxWTX-5" vertex="1">
-          <mxGeometry x="287" y="387" width="120" height="60" as="geometry" />
+          <mxGeometry x="158" y="524" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-9Zzd_e0Hqp7uIsVxWTX-19" value="输入账号与密码" style="rounded=0;whiteSpace=wrap;html=1;" parent="-9Zzd_e0Hqp7uIsVxWTX-5" vertex="1">
-          <mxGeometry x="547" y="308" width="120" height="60" as="geometry" />
+        <mxCell id="cMeBgRiUTRAfW4mJI98a-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-9Zzd_e0Hqp7uIsVxWTX-5" source="-9Zzd_e0Hqp7uIsVxWTX-19" target="-9Zzd_e0Hqp7uIsVxWTX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-9Zzd_e0Hqp7uIsVxWTX-19" value="&lt;div&gt;显示上次登录的账号&lt;/div&gt;输入密码" style="rounded=0;whiteSpace=wrap;html=1;" parent="-9Zzd_e0Hqp7uIsVxWTX-5" vertex="1">
+          <mxGeometry x="386" y="412" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cMeBgRiUTRAfW4mJI98a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-9Zzd_e0Hqp7uIsVxWTX-5" source="-9Zzd_e0Hqp7uIsVxWTX-20" target="-9Zzd_e0Hqp7uIsVxWTX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMeBgRiUTRAfW4mJI98a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-9Zzd_e0Hqp7uIsVxWTX-5" source="-9Zzd_e0Hqp7uIsVxWTX-20" target="-9Zzd_e0Hqp7uIsVxWTX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMeBgRiUTRAfW4mJI98a-9" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMeBgRiUTRAfW4mJI98a-8">
+          <mxGeometry x="-0.4222" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-9Zzd_e0Hqp7uIsVxWTX-20" value="是否勾选了记住账号" style="rhombus;whiteSpace=wrap;html=1;" parent="-9Zzd_e0Hqp7uIsVxWTX-5" vertex="1">
-          <mxGeometry x="377" y="235" width="178" height="80" as="geometry" />
+          <mxGeometry x="357" y="298" width="178" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-9Zzd_e0Hqp7uIsVxWTX-8" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-451" y="-292" width="178" height="80" as="geometry" />
+          <mxGeometry x="-446" y="-345" width="178" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
