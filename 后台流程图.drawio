@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T03:16:08.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LIFT8cIXNUpHmgttPNtQ" version="24.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T03:44:13.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="N8uMAUwiKSZ4TBLENRS2" version="24.7.0" type="github">
   <diagram name="第 1 页" id="F05l9aFnmWJKwojHecaN">
-    <mxGraphModel dx="4195" dy="2730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2740" dy="1903" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -446,7 +446,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wff64aWxeOLmYA7VvRD1-37" value="验证码是否为空&lt;br&gt;密码是否为空&lt;br&gt;密码位数是否不满足要求&lt;div&gt;密码大小写是否不满足要求&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="wff64aWxeOLmYA7VvRD1-7">
+        <mxCell id="wff64aWxeOLmYA7VvRD1-37" value="验证码是否为空&lt;br&gt;密码是否为空&lt;br&gt;密码位数是否不满足要求" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="wff64aWxeOLmYA7VvRD1-7">
           <mxGeometry x="214.5" y="853" width="229" height="99" as="geometry" />
         </mxCell>
         <mxCell id="wff64aWxeOLmYA7VvRD1-38" value="页面显示对应错误提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wff64aWxeOLmYA7VvRD1-7">
