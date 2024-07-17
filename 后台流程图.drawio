@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T02:41:17.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4tsyDw0K_UOVYqstGEN3" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T02:44:56.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1Hyihd10PcnsMOKuidlV" version="24.7.0" type="github">
   <diagram name="第 1 页" id="F05l9aFnmWJKwojHecaN">
-    <mxGraphModel dx="4195" dy="2730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2158" dy="1572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,9 +180,9 @@
           <mxGeometry x="-656" y="-352" width="178" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cMeBgRiUTRAfW4mJI98a-11" value="忘记密码流程" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="675" y="-781" width="619" height="1441" as="geometry" />
+          <mxGeometry x="657" y="-668" width="679" height="1639" as="geometry" />
         </mxCell>
-        <mxCell id="-7WMTudne2ME9wW7jkPf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cMeBgRiUTRAfW4mJI98a-11" source="cMeBgRiUTRAfW4mJI98a-12" target="-7WMTudne2ME9wW7jkPf-1">
+        <mxCell id="-7WMTudne2ME9wW7jkPf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="cMeBgRiUTRAfW4mJI98a-11" source="cMeBgRiUTRAfW4mJI98a-12" target="-7WMTudne2ME9wW7jkPf-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cMeBgRiUTRAfW4mJI98a-12" value="点击忘记密码按钮" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="cMeBgRiUTRAfW4mJI98a-11" vertex="1">
@@ -301,20 +301,46 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMeBgRiUTRAfW4mJI98a-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="cMeBgRiUTRAfW4mJI98a-11" source="cMeBgRiUTRAfW4mJI98a-72" target="cMeBgRiUTRAfW4mJI98a-77" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cMeBgRiUTRAfW4mJI98a-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="cMeBgRiUTRAfW4mJI98a-11" source="cMeBgRiUTRAfW4mJI98a-72" target="wff64aWxeOLmYA7VvRD1-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="332" y="1354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wff64aWxeOLmYA7VvRD1-3" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMeBgRiUTRAfW4mJI98a-78">
+          <mxGeometry x="-0.0588" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cMeBgRiUTRAfW4mJI98a-72" value="第二次输入的密码是否与第一次相同" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="cMeBgRiUTRAfW4mJI98a-11" vertex="1">
           <mxGeometry x="240" y="1198" width="178" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cMeBgRiUTRAfW4mJI98a-77" value="密码重置成功弹窗" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="cMeBgRiUTRAfW4mJI98a-11" vertex="1">
-          <mxGeometry x="269" y="1307" width="120" height="60" as="geometry" />
+          <mxGeometry x="269" y="1533" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-7WMTudne2ME9wW7jkPf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cMeBgRiUTRAfW4mJI98a-11" source="-7WMTudne2ME9wW7jkPf-1" target="-9Zzd_e0Hqp7uIsVxWTX-4">
+        <mxCell id="-7WMTudne2ME9wW7jkPf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="cMeBgRiUTRAfW4mJI98a-11" source="-7WMTudne2ME9wW7jkPf-1" target="-9Zzd_e0Hqp7uIsVxWTX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-7WMTudne2ME9wW7jkPf-1" value="出现密码重置弹窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cMeBgRiUTRAfW4mJI98a-11">
+        <mxCell id="-7WMTudne2ME9wW7jkPf-1" value="出现密码重置弹窗" style="rounded=0;whiteSpace=wrap;html=1;" parent="cMeBgRiUTRAfW4mJI98a-11" vertex="1">
           <mxGeometry x="269" y="143" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wff64aWxeOLmYA7VvRD1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cMeBgRiUTRAfW4mJI98a-11" source="wff64aWxeOLmYA7VvRD1-1" target="cMeBgRiUTRAfW4mJI98a-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wff64aWxeOLmYA7VvRD1-4" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wff64aWxeOLmYA7VvRD1-2">
+          <mxGeometry x="-0.2143" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wff64aWxeOLmYA7VvRD1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="cMeBgRiUTRAfW4mJI98a-11" source="wff64aWxeOLmYA7VvRD1-1" target="cMeBgRiUTRAfW4mJI98a-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wff64aWxeOLmYA7VvRD1-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wff64aWxeOLmYA7VvRD1-5">
+          <mxGeometry x="-0.7288" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wff64aWxeOLmYA7VvRD1-1" value="新密码是否与旧密码相同" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="cMeBgRiUTRAfW4mJI98a-11">
+          <mxGeometry x="240" y="1397" width="178" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cMeBgRiUTRAfW4mJI98a-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-633" y="-606" width="120" height="60" as="geometry" />
