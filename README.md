@@ -1,6 +1,7 @@
 ### Hi there 👋
 #### Here is IWTBAGD. This is the first repository that i created.
-#### 测试git学习，取得远程数据库
+#### I'm a GameDesigner.And I'm trying my best in learning Coding.
+#### Here is some games that i designed and developed with my friends. => https://remix-1.itch.io/
 <!--
 **IWTBAGD/IWTBAGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
