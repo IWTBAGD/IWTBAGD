@@ -1,3 +1,0 @@
-# 测试1
-name=IWTBAGD
-print(f"Hi here is {name},this is my first time creata a repository")
