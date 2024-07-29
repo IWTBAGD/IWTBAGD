@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T09:55:00.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cTZVL7XQUPDdL8e_7QgL" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="第 1 页" id="F05l9aFnmWJKwojHecaN">
-    <mxGraphModel dx="1444" dy="2947" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2280" dy="2871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -516,26 +516,29 @@
         <mxCell id="wff64aWxeOLmYA7VvRD1-54" value="发送验证码" style="rounded=0;whiteSpace=wrap;html=1;" parent="wff64aWxeOLmYA7VvRD1-7" vertex="1">
           <mxGeometry x="269" y="542" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EtHHx7GxwhC4JPyOXZYm-1" value="合同创建流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EtHHx7GxwhC4JPyOXZYm-1" value="合同创建流程" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2710" y="-595" width="357" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="EtHHx7GxwhC4JPyOXZYm-5" value="创建合同方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EtHHx7GxwhC4JPyOXZYm-1">
+        <mxCell id="EtHHx7GxwhC4JPyOXZYm-5" value="创建合同方案" style="rounded=0;whiteSpace=wrap;html=1;" parent="EtHHx7GxwhC4JPyOXZYm-1" vertex="1">
           <mxGeometry x="70" y="56" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EtHHx7GxwhC4JPyOXZYm-6" value="客户列表签订合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EtHHx7GxwhC4JPyOXZYm-1">
+        <mxCell id="EtHHx7GxwhC4JPyOXZYm-6" value="客户列表签订合同" style="rounded=0;whiteSpace=wrap;html=1;" parent="EtHHx7GxwhC4JPyOXZYm-1" vertex="1">
           <mxGeometry x="70" y="156" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EtHHx7GxwhC4JPyOXZYm-7" value="提交审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EtHHx7GxwhC4JPyOXZYm-1">
+        <mxCell id="EtHHx7GxwhC4JPyOXZYm-7" value="提交审核" style="rounded=0;whiteSpace=wrap;html=1;" parent="EtHHx7GxwhC4JPyOXZYm-1" vertex="1">
           <mxGeometry x="80" y="303" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EtHHx7GxwhC4JPyOXZYm-2" value="点击忘记密码按钮" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="EtHHx7GxwhC4JPyOXZYm-2" value="点击忘记密码按钮" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2969" y="-755" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EtHHx7GxwhC4JPyOXZYm-4" value="该手机号是否绑定了账号" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="EtHHx7GxwhC4JPyOXZYm-4" value="该手机号是否绑定了账号" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2836" y="-873" width="178" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EtHHx7GxwhC4JPyOXZYm-3" value="崔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EtHHx7GxwhC4JPyOXZYm-3" value="崔" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2688" y="-793" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-756" y="-992" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
