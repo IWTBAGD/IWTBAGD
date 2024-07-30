@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="第 1 页" id="F05l9aFnmWJKwojHecaN">
-    <mxGraphModel dx="5116" dy="5944" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4663" dy="6087" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -528,15 +528,6 @@
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-8" value="客户列表-签订合同" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ehoLUz4X4ZDxg3oLdRm0-3" vertex="1">
           <mxGeometry x="1982" y="281" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-21" value="客户列表" style="swimlane;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-3" vertex="1">
-          <mxGeometry x="3703" y="556" width="236" height="304" as="geometry" />
-        </mxCell>
-        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-9" value="签约状态&lt;br&gt;进入【待审核】状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-21" vertex="1">
-          <mxGeometry x="64" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-4" value="签约状态&lt;br&gt;进入【签约中】状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-21" vertex="1">
-          <mxGeometry x="67" y="207" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-3" source="ehoLUz4X4ZDxg3oLdRm0-39" target="ehoLUz4X4ZDxg3oLdRm0-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -931,7 +922,7 @@
         <mxCell id="3jsnR_UQKGE4qIePH2hI-24" value="失败的信息也会在合同审核处保留" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="3jsnR_UQKGE4qIePH2hI-22" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-25" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="3jsnR_UQKGE4qIePH2hI-22" vertex="1">
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-25" value="顾问生源的影响" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="3jsnR_UQKGE4qIePH2hI-22" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3jsnR_UQKGE4qIePH2hI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="3jsnR_UQKGE4qIePH2hI-26" target="3jsnR_UQKGE4qIePH2hI-14" edge="1">
@@ -1065,6 +1056,21 @@
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2191" y="-1761" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-21" value="客户列表" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2332" y="-4796" width="279" height="479" as="geometry" />
+        </mxCell>
+        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-9" value="签约状态&lt;br&gt;进入【待审核】状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-21" vertex="1">
+          <mxGeometry x="64" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-4" value="签约状态&lt;br&gt;进入【签约中】状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-21" vertex="1">
+          <mxGeometry x="67" y="207" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33pigh-Qr9CYHFgzdGEJ-167" value="签约状态&lt;br&gt;进入【已解约】状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ehoLUz4X4ZDxg3oLdRm0-21">
+          <mxGeometry x="64" y="307" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33pigh-Qr9CYHFgzdGEJ-168" value="签约状态&lt;br&gt;进入【未签约】状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ehoLUz4X4ZDxg3oLdRm0-21">
+          <mxGeometry x="64" y="387" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
