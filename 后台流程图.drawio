@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="第 1 页" id="F05l9aFnmWJKwojHecaN">
-    <mxGraphModel dx="3486" dy="5018" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7832" dy="7488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -516,27 +516,6 @@
         <mxCell id="wff64aWxeOLmYA7VvRD1-54" value="发送验证码" style="rounded=0;whiteSpace=wrap;html=1;" parent="wff64aWxeOLmYA7VvRD1-7" vertex="1">
           <mxGeometry x="269" y="542" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EtHHx7GxwhC4JPyOXZYm-1" value="合同创建流程" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2710" y="-595" width="357" height="580" as="geometry" />
-        </mxCell>
-        <mxCell id="EtHHx7GxwhC4JPyOXZYm-5" value="创建合同方案" style="rounded=0;whiteSpace=wrap;html=1;" parent="EtHHx7GxwhC4JPyOXZYm-1" vertex="1">
-          <mxGeometry x="70" y="56" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EtHHx7GxwhC4JPyOXZYm-6" value="客户列表签订合同" style="rounded=0;whiteSpace=wrap;html=1;" parent="EtHHx7GxwhC4JPyOXZYm-1" vertex="1">
-          <mxGeometry x="70" y="156" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EtHHx7GxwhC4JPyOXZYm-7" value="提交审核" style="rounded=0;whiteSpace=wrap;html=1;" parent="EtHHx7GxwhC4JPyOXZYm-1" vertex="1">
-          <mxGeometry x="80" y="303" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EtHHx7GxwhC4JPyOXZYm-2" value="点击忘记密码按钮" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="2969" y="-755" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EtHHx7GxwhC4JPyOXZYm-4" value="该手机号是否绑定了账号" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2836" y="-873" width="178" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EtHHx7GxwhC4JPyOXZYm-3" value="崔" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2688" y="-793" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-1" value="生源处【签订合同】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-756" y="-992" width="120" height="60" as="geometry" />
         </mxCell>
@@ -544,7 +523,7 @@
           <mxGeometry x="-756" y="-921" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-3" value="签订合同" style="swimlane;whiteSpace=wrap;html=1;startSize=23;strokeColor=#CDA2BE;" parent="1" vertex="1">
-          <mxGeometry x="-1626" y="-4082" width="4966" height="2911" as="geometry" />
+          <mxGeometry x="-1026" y="-4086" width="4966" height="2911" as="geometry" />
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-8" value="客户列表-签订合同" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ehoLUz4X4ZDxg3oLdRm0-3" vertex="1">
           <mxGeometry x="1982" y="281" width="120" height="60" as="geometry" />
@@ -559,7 +538,7 @@
           <mxGeometry x="67" y="207" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-22" value="合同管理" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;" parent="ehoLUz4X4ZDxg3oLdRm0-3" vertex="1">
-          <mxGeometry x="1086" y="516" width="2474" height="2106" as="geometry" />
+          <mxGeometry x="1019" y="582" width="2474" height="2106" as="geometry" />
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="ehoLUz4X4ZDxg3oLdRm0-10" target="ehoLUz4X4ZDxg3oLdRm0-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -600,11 +579,22 @@
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-23" value="删除" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="639" y="306" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="ehoLUz4X4ZDxg3oLdRm0-24" target="3jsnR_UQKGE4qIePH2hI-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-24" value="续约" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="858" y="768" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="33pigh-Qr9CYHFgzdGEJ-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="ehoLUz4X4ZDxg3oLdRm0-35" target="3jsnR_UQKGE4qIePH2hI-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1321" y="1155" />
+              <mxPoint x="917" y="1155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-35" value="退费" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
-          <mxGeometry x="1212" y="762" width="120" height="60" as="geometry" />
+          <mxGeometry x="1261" y="768" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-36" value="暂停合同" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="1672" y="736" width="120" height="60" as="geometry" />
@@ -653,8 +643,14 @@
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-143" value="重新申请" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="271" y="777" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="ehoLUz4X4ZDxg3oLdRm0-146" target="3jsnR_UQKGE4qIePH2hI-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-146" value="修改" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="678" y="768" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="ehoLUz4X4ZDxg3oLdRm0-147" target="3jsnR_UQKGE4qIePH2hI-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-147" value="删除" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="501" y="768" width="120" height="60" as="geometry" />
@@ -675,7 +671,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3jsnR_UQKGE4qIePH2hI-11" value="审核流程" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
-          <mxGeometry x="427" y="1482" width="898" height="60" as="geometry" />
+          <mxGeometry x="427" y="1482" width="980" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3jsnR_UQKGE4qIePH2hI-14" value="对应编号合同信息更新为修改后的" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="491" y="1685" width="120" height="60" as="geometry" />
@@ -711,7 +707,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3jsnR_UQKGE4qIePH2hI-29" value="提交续约合同信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
-          <mxGeometry x="858" y="1013" width="120" height="60" as="geometry" />
+          <mxGeometry x="858" y="1036" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3jsnR_UQKGE4qIePH2hI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="3jsnR_UQKGE4qIePH2hI-11" target="3jsnR_UQKGE4qIePH2hI-33" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -760,11 +756,19 @@
         <mxCell id="3jsnR_UQKGE4qIePH2hI-48" value="修改" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="1160" y="306" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="3jsnR_UQKGE4qIePH2hI-118" target="3jsnR_UQKGE4qIePH2hI-119" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3jsnR_UQKGE4qIePH2hI-118" value="赠送时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="1024" y="765" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="3jsnR_UQKGE4qIePH2hI-119" target="3jsnR_UQKGE4qIePH2hI-123" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="33pigh-Qr9CYHFgzdGEJ-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="3jsnR_UQKGE4qIePH2hI-119" target="3jsnR_UQKGE4qIePH2hI-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1084" y="1158" />
+              <mxPoint x="917" y="1158" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3jsnR_UQKGE4qIePH2hI-119" value="提交时长信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="1024" y="1034" width="120" height="60" as="geometry" />
@@ -774,50 +778,6 @@
         </mxCell>
         <mxCell id="3jsnR_UQKGE4qIePH2hI-122" value="审核成功" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="1020" y="1584" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="3jsnR_UQKGE4qIePH2hI-123" target="3jsnR_UQKGE4qIePH2hI-124" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-127" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3jsnR_UQKGE4qIePH2hI-126" vertex="1" connectable="0">
-          <mxGeometry x="-0.3333" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="3jsnR_UQKGE4qIePH2hI-123" target="3jsnR_UQKGE4qIePH2hI-133" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-135" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3jsnR_UQKGE4qIePH2hI-134" vertex="1" connectable="0">
-          <mxGeometry x="0.2093" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-123" value="所选的合同是否为&lt;br&gt;该客户最新生成的合同" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
-          <mxGeometry x="994" y="1132" width="180" height="88" as="geometry" />
-        </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="3jsnR_UQKGE4qIePH2hI-124" target="3jsnR_UQKGE4qIePH2hI-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-129" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3jsnR_UQKGE4qIePH2hI-128" vertex="1" connectable="0">
-          <mxGeometry x="-0.8721" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="3jsnR_UQKGE4qIePH2hI-124" target="3jsnR_UQKGE4qIePH2hI-130" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-132" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3jsnR_UQKGE4qIePH2hI-131" vertex="1" connectable="0">
-          <mxGeometry x="-0.3333" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-124" value="最新的合同是否&lt;br&gt;处于【已拒绝】状态" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
-          <mxGeometry x="994" y="1258" width="180" height="88" as="geometry" />
-        </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-130" value="警告&lt;br&gt;无法为已拒绝的合同赠送时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
-          <mxGeometry x="1174" y="1362" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3jsnR_UQKGE4qIePH2hI-133" value="警告&lt;br&gt;请选择该客户最新的合同进行赠课" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
-          <mxGeometry x="1235" y="1146" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3jsnR_UQKGE4qIePH2hI-136" value="对应合同的有效时长增加" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="1020" y="1685" width="120" height="60" as="geometry" />
@@ -831,20 +791,8 @@
         <mxCell id="33pigh-Qr9CYHFgzdGEJ-109" value="对应合同的有效时长减少" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ehoLUz4X4ZDxg3oLdRm0-22">
           <mxGeometry x="1247" y="1685" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="33pigh-Qr9CYHFgzdGEJ-112" value="该合同不处于审核流程中" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ehoLUz4X4ZDxg3oLdRm0-22">
-          <mxGeometry x="481" y="894" width="898" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="33pigh-Qr9CYHFgzdGEJ-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.088;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="ehoLUz4X4ZDxg3oLdRm0-147" target="33pigh-Qr9CYHFgzdGEJ-112">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="33pigh-Qr9CYHFgzdGEJ-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.287;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="ehoLUz4X4ZDxg3oLdRm0-146" target="33pigh-Qr9CYHFgzdGEJ-112">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="33pigh-Qr9CYHFgzdGEJ-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="ehoLUz4X4ZDxg3oLdRm0-24" target="33pigh-Qr9CYHFgzdGEJ-112">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="33pigh-Qr9CYHFgzdGEJ-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.673;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="3jsnR_UQKGE4qIePH2hI-118" target="33pigh-Qr9CYHFgzdGEJ-112">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="33pigh-Qr9CYHFgzdGEJ-124" value="所选合同不处于审核流程中" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#b85450;gradientColor=none;opacity=50;" vertex="1" parent="ehoLUz4X4ZDxg3oLdRm0-22">
+          <mxGeometry x="472" y="902" width="898" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-3" source="ehoLUz4X4ZDxg3oLdRm0-39" target="ehoLUz4X4ZDxg3oLdRm0-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -865,9 +813,6 @@
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-53" value="&lt;div&gt;警告气泡&lt;/div&gt;该客户已签订合同或有合同处于审核阶段" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-3" vertex="1">
           <mxGeometry x="2225" y="390" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-76" value="财务管理-退费管理" style="swimlane;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-3" vertex="1">
-          <mxGeometry x="643" y="1771" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-149" value="审核流程" style="swimlane;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-3" vertex="1">
           <mxGeometry x="122" y="356" width="920" height="1263" as="geometry">
@@ -1009,6 +954,42 @@
         </mxCell>
         <mxCell id="3jsnR_UQKGE4qIePH2hI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-3" source="ehoLUz4X4ZDxg3oLdRm0-125" target="3jsnR_UQKGE4qIePH2hI-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-123" value="所选的合同是否为&lt;br&gt;该客户最新生成的合同" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="ehoLUz4X4ZDxg3oLdRm0-3" vertex="1">
+          <mxGeometry x="3546" y="1645" width="180" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-133" value="警告&lt;br&gt;请选择该客户最新的合同进行赠课" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-3" vertex="1">
+          <mxGeometry x="3787" y="1659" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-124" value="最新的合同是否&lt;br&gt;处于【已拒绝】状态" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="ehoLUz4X4ZDxg3oLdRm0-3" vertex="1">
+          <mxGeometry x="3546" y="1771" width="180" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-130" value="警告&lt;br&gt;无法为已拒绝的合同赠送时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-3" vertex="1">
+          <mxGeometry x="3726" y="1875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-3" source="3jsnR_UQKGE4qIePH2hI-123" target="3jsnR_UQKGE4qIePH2hI-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-127" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3jsnR_UQKGE4qIePH2hI-126" vertex="1" connectable="0">
+          <mxGeometry x="-0.3333" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-3" source="3jsnR_UQKGE4qIePH2hI-123" target="3jsnR_UQKGE4qIePH2hI-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-135" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3jsnR_UQKGE4qIePH2hI-134" vertex="1" connectable="0">
+          <mxGeometry x="0.2093" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-3" source="3jsnR_UQKGE4qIePH2hI-124" target="3jsnR_UQKGE4qIePH2hI-130" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3jsnR_UQKGE4qIePH2hI-132" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3jsnR_UQKGE4qIePH2hI-131" vertex="1" connectable="0">
+          <mxGeometry x="-0.3333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-4" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-2214" y="-1634" width="178" height="80" as="geometry" />
