@@ -522,7 +522,7 @@
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-2" value="生源处【签订合同】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-756" y="-921" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-3" value="签订合同" style="swimlane;whiteSpace=wrap;html=1;startSize=23;strokeColor=#82b366;fillColor=#d5e8d4;swimlaneFillColor=none;" parent="1" vertex="1">
+        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-3" value="签订合同" style="swimlane;whiteSpace=wrap;html=1;startSize=23;strokeColor=#82b366;fillColor=#d5e8d4;swimlaneFillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-1019" y="-4262" width="3506" height="2523" as="geometry" />
         </mxCell>
         <mxCell id="33pigh-Qr9CYHFgzdGEJ-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ehoLUz4X4ZDxg3oLdRm0-3" source="ehoLUz4X4ZDxg3oLdRm0-8" target="ehoLUz4X4ZDxg3oLdRm0-39">
