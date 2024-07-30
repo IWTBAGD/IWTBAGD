@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="第 1 页" id="F05l9aFnmWJKwojHecaN">
-    <mxGraphModel dx="6280" dy="7406" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4489" dy="6388" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -545,12 +545,12 @@
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-53" value="&lt;div&gt;警告气泡&lt;/div&gt;该客户已签订合同或有合同处于审核阶段" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-3" vertex="1">
           <mxGeometry x="2328" y="391" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-149" value="审核流程" style="swimlane;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-3" vertex="1">
+        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-149" value="审核流程" style="swimlane;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;swimlaneFillColor=default;" parent="ehoLUz4X4ZDxg3oLdRm0-3" vertex="1">
           <mxGeometry x="72" y="620" width="920" height="1263" as="geometry">
             <mxRectangle x="79" y="337" width="83" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-75" value="财务管理-总部审核" style="swimlane;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-149" vertex="1">
+        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-75" value="财务管理-总部审核" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;swimlaneFillColor=#f59e9e;opacity=80;" parent="ehoLUz4X4ZDxg3oLdRm0-149" vertex="1">
           <mxGeometry x="87" y="668" width="467" height="381" as="geometry">
             <mxRectangle x="188" y="424.5" width="135" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -576,7 +576,7 @@
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-121" value="输入驳回备注" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-75" vertex="1">
           <mxGeometry x="190" y="252" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-74" value="财务管理-合同审核" style="swimlane;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-149" vertex="1">
+        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-74" value="财务管理-合同审核" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=#8c80ea;fillColor=#d0cee2;strokeColor=#56517e;opacity=80;" parent="ehoLUz4X4ZDxg3oLdRm0-149" vertex="1">
           <mxGeometry x="442" y="255" width="434" height="263" as="geometry">
             <mxRectangle x="227" y="137" width="135" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -599,10 +599,10 @@
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-96" value="输入驳回备注" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-74" vertex="1">
           <mxGeometry x="246" y="142" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-149" source="ehoLUz4X4ZDxg3oLdRm0-84" target="ehoLUz4X4ZDxg3oLdRm0-75" edge="1">
+        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-149" source="ehoLUz4X4ZDxg3oLdRm0-84" target="ehoLUz4X4ZDxg3oLdRm0-75" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="506" y="564" />
+              <mxPoint x="558" y="564" />
               <mxPoint x="320" y="564" />
             </Array>
           </mxGeometry>
@@ -637,7 +637,7 @@
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-149" source="ehoLUz4X4ZDxg3oLdRm0-121" target="ehoLUz4X4ZDxg3oLdRm0-154" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="33pigh-Qr9CYHFgzdGEJ-3" value="财务管理-退费管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="ehoLUz4X4ZDxg3oLdRm0-149">
+        <mxCell id="33pigh-Qr9CYHFgzdGEJ-3" value="财务管理-退费管理" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;swimlaneFillColor=#f9a23e;opacity=80;" vertex="1" parent="ehoLUz4X4ZDxg3oLdRm0-149">
           <mxGeometry x="29" y="250" width="354" height="281" as="geometry" />
         </mxCell>
         <mxCell id="33pigh-Qr9CYHFgzdGEJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="33pigh-Qr9CYHFgzdGEJ-3" source="33pigh-Qr9CYHFgzdGEJ-11" target="33pigh-Qr9CYHFgzdGEJ-13">
@@ -681,7 +681,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="33pigh-Qr9CYHFgzdGEJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ehoLUz4X4ZDxg3oLdRm0-149" source="33pigh-Qr9CYHFgzdGEJ-16" target="ehoLUz4X4ZDxg3oLdRm0-154">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="421" y="422" />
+              <mxPoint x="421" y="629" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="33pigh-Qr9CYHFgzdGEJ-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ehoLUz4X4ZDxg3oLdRm0-3" source="ehoLUz4X4ZDxg3oLdRm0-39" target="ehoLUz4X4ZDxg3oLdRm0-22">
           <mxGeometry relative="1" as="geometry">
@@ -696,7 +701,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-10" value="生成合同编号和相关信息条目" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
-          <mxGeometry x="381" y="108" width="120" height="60" as="geometry" />
+          <mxGeometry x="1078" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="ehoLUz4X4ZDxg3oLdRm0-11" target="ehoLUz4X4ZDxg3oLdRm0-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -997,7 +1002,7 @@
         <mxCell id="33pigh-Qr9CYHFgzdGEJ-158" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;opacity=20;" vertex="1" parent="ehoLUz4X4ZDxg3oLdRm0-22">
           <mxGeometry x="1629" y="740.75" width="158" height="775" as="geometry" />
         </mxCell>
-        <mxCell id="33pigh-Qr9CYHFgzdGEJ-169" value="&lt;h1 style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;说明&lt;/b&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;ol&gt;&lt;li&gt;若一个合同处于审核流程中不能够进行这7个操作中的任意一个操作&lt;/li&gt;&lt;li&gt;除了【续约】会生成一个新的合同并且该合同会在合同管理界面显示合同状态，其他的6个操作都是基于一个已有合同进行修改或删除，所以在合同管理界面不会改变已有合同状态&lt;/li&gt;&lt;li&gt;其他6个操作都会审核失败的信息都会显示在&lt;b&gt;合同异动、合同审核&lt;/b&gt;界面中&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="shape=note;size=57;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;align=left;" vertex="1" parent="ehoLUz4X4ZDxg3oLdRm0-22">
+        <mxCell id="33pigh-Qr9CYHFgzdGEJ-169" value="&lt;h1 style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;说明&lt;/b&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;ol&gt;&lt;li&gt;若一个合同处于&lt;b&gt;审核流程&lt;/b&gt;中不能够进行这7个操作中的任意一个操作&lt;/li&gt;&lt;li&gt;除了【续约】会生成一个新的合同并且该合同会在合同管理界面显示合同状态，其他的6个操作都是基于一个已有合同进行修改或删除，所以在合同管理界面不会改变已有合同状态&lt;/li&gt;&lt;li&gt;其他6个操作都会审核失败的信息都会显示在&lt;b&gt;合同异动、合同审核&lt;/b&gt;界面中&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="shape=note;size=57;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;align=left;" vertex="1" parent="ehoLUz4X4ZDxg3oLdRm0-22">
           <mxGeometry x="1801" y="848" width="287" height="237" as="geometry" />
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-4" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
