@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="F05l9aFnmWJKwojHecaN">
-    <mxGraphModel dx="6422" dy="7200" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4663" dy="6326" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1051,9 +1051,6 @@
         <mxCell id="F2lo12-nk7OIq22PsSwr-3" value="客户状态变为【已签约】" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="987" y="324" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F2lo12-nk7OIq22PsSwr-5" value="发送客户的账号和密码信息至邮箱" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
-          <mxGeometry x="1067" y="613" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="LSG-D-Ek3ettZP3Rg3Ep-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="LSG-D-Ek3ettZP3Rg3Ep-107" target="LSG-D-Ek3ettZP3Rg3Ep-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1073,21 +1070,11 @@
         <mxCell id="LSG-D-Ek3ettZP3Rg3Ep-107" value="所选客户是否为第一次签约" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="957" y="415" width="180" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="LSG-D-Ek3ettZP3Rg3Ep-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="LSG-D-Ek3ettZP3Rg3Ep-111" target="F2lo12-nk7OIq22PsSwr-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LSG-D-Ek3ettZP3Rg3Ep-111" value="正式创建客户档案" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="987" y="532" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LSG-D-Ek3ettZP3Rg3Ep-112" value="修改客户档案" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-22" vertex="1">
           <mxGeometry x="1196" y="429" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LSG-D-Ek3ettZP3Rg3Ep-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ehoLUz4X4ZDxg3oLdRm0-22" source="LSG-D-Ek3ettZP3Rg3Ep-112" target="F2lo12-nk7OIq22PsSwr-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1258" y="647" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="ehoLUz4X4ZDxg3oLdRm0-4" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-2214" y="-1634" width="178" height="80" as="geometry" />
