@@ -1,6 +1,7 @@
 -- 函数
 
 --#region 基础写法（无参无返回值）
+
 --写法1
 function Test()--function后面接上函数名称与()
     print("test")--函数体
@@ -15,6 +16,7 @@ Test1()
 --#endregion
 
 --#region 有参函数
+
 --有参
 function Test2(a)
     print(a)
@@ -24,6 +26,7 @@ Test2(1)--这里就会打印传进去的1
 --#endregion
 
 --#region 有返回值函数
+
 --返回单个值
 function Test3()
     return 2
@@ -49,6 +52,7 @@ print(temp1,temp2,temp3)
 --#endregion
 
 --#region 变长函数
+
 --变长函数
 function Test6(...)
     b = {...}--使用一个表装载参数
@@ -60,6 +64,7 @@ Test6(1,2,3)
 --#endregion
 
 --#region 函数嵌套
+
 --函数嵌套
 function Test7(x)
     return function(y)
