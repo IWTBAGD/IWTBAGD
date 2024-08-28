@@ -1202,6 +1202,11 @@
         <mxCell id="T49xX1udKenIECwVE3pO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-21" target="T49xX1udKenIECwVE3pO-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="T49xX1udKenIECwVE3pO-44" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T49xX1udKenIECwVE3pO-40">
+          <mxGeometry x="-0.1264" y="1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-21" value="管理人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6857" y="-4342" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1220,6 +1225,11 @@
         <mxCell id="T49xX1udKenIECwVE3pO-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-27" target="T49xX1udKenIECwVE3pO-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="T49xX1udKenIECwVE3pO-43" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T49xX1udKenIECwVE3pO-34">
+          <mxGeometry x="0.0728" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-27" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7058" y="-4559" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1232,11 +1242,21 @@
         <mxCell id="T49xX1udKenIECwVE3pO-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-36" target="T49xX1udKenIECwVE3pO-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="T49xX1udKenIECwVE3pO-42" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T49xX1udKenIECwVE3pO-37">
+          <mxGeometry x="-0.1396" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-36" value="设置角色&lt;br&gt;角色级别决定管理机构可否多选" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="6943" y="-4461" width="179" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="T49xX1udKenIECwVE3pO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-39" target="T49xX1udKenIECwVE3pO-16">
+        <mxCell id="T49xX1udKenIECwVE3pO-41" value="m" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-39" target="T49xX1udKenIECwVE3pO-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T49xX1udKenIECwVE3pO-45" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T49xX1udKenIECwVE3pO-41">
+          <mxGeometry x="0.0309" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-39" value="设置管理机构&lt;br&gt;根据操作" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="6825" y="-4235" width="178" height="80" as="geometry" />
