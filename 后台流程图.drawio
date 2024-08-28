@@ -1206,7 +1206,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-22" value="角色级别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7083" y="-4619" width="120" height="80" as="geometry" />
+          <mxGeometry x="6991" y="-4619" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-24" value="机构范围" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6655" y="-4461" width="120" height="80" as="geometry" />
@@ -1222,6 +1222,9 @@
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-27" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7043" y="-4451" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T49xX1udKenIECwVE3pO-32" value="操作权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7175" y="-4617" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
