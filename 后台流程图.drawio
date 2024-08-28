@@ -1200,25 +1200,25 @@
           <mxGeometry x="7143" y="-3750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-21" value="管理人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6842" y="-4262" width="120" height="60" as="geometry" />
+          <mxGeometry x="6857" y="-4342" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-22" target="T49xX1udKenIECwVE3pO-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-22" value="角色级别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6947" y="-4601" width="120" height="80" as="geometry" />
+          <mxGeometry x="6962" y="-4681" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-24" target="T49xX1udKenIECwVE3pO-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T49xX1udKenIECwVE3pO-24" value="机构范围" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6655" y="-4461" width="120" height="80" as="geometry" />
+        <mxCell id="T49xX1udKenIECwVE3pO-24" value="管理机构（范围）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6670" y="-4541" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-25" target="T49xX1udKenIECwVE3pO-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-25" value="角色级别决定" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="6820" y="-4461" width="178" height="80" as="geometry" />
+          <mxGeometry x="6835" y="-4541" width="178" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-27" target="T49xX1udKenIECwVE3pO-25">
           <mxGeometry relative="1" as="geometry" />
@@ -1227,19 +1227,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-27" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7043" y="-4451" width="120" height="60" as="geometry" />
+          <mxGeometry x="7058" y="-4531" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-32" target="T49xX1udKenIECwVE3pO-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-32" value="操作权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7134" y="-4601" width="120" height="80" as="geometry" />
+          <mxGeometry x="7149" y="-4681" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-36" target="T49xX1udKenIECwVE3pO-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-36" value="设置角色" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="6931" y="-4377" width="178" height="80" as="geometry" />
+          <mxGeometry x="6946" y="-4457" width="178" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
