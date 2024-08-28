@@ -1195,17 +1195,25 @@
         <mxCell id="T49xX1udKenIECwVE3pO-16" value="机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6953" y="-4251" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="T49xX1udKenIECwVE3pO-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-17" target="T49xX1udKenIECwVE3pO-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T49xX1udKenIECwVE3pO-60" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T49xX1udKenIECwVE3pO-57">
+          <mxGeometry x="-0.0022" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-17" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6629" y="-4003" width="120" height="60" as="geometry" />
+          <mxGeometry x="6460" y="-3938" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-18" value="正式客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6444" y="-4394" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-19" value="咨询师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7062" y="-4000" width="120" height="60" as="geometry" />
+          <mxGeometry x="6781" y="-3793" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-20" value="干预师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6843" y="-4003" width="120" height="60" as="geometry" />
+          <mxGeometry x="6957" y="-3934" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-21" target="T49xX1udKenIECwVE3pO-39">
           <mxGeometry relative="1" as="geometry" />
@@ -1290,6 +1298,17 @@
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-46" value="所属机构" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="6766" y="-4150" width="178" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T49xX1udKenIECwVE3pO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-56" target="T49xX1udKenIECwVE3pO-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T49xX1udKenIECwVE3pO-59" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T49xX1udKenIECwVE3pO-58">
+          <mxGeometry x="-0.0302" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T49xX1udKenIECwVE3pO-56" value="所属咨询师" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="6648" y="-3922" width="178" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
