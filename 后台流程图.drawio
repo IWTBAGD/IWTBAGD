@@ -1221,7 +1221,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-17" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6457" y="-4090" width="120" height="60" as="geometry" />
+          <mxGeometry x="6355" y="-4116" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-18" value="正式客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5927" y="-3782" width="120" height="60" as="geometry" />
@@ -1342,7 +1342,7 @@
           <mxGeometry x="6641" y="-4017" width="178" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-63" value="合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6423" y="-3689" width="120" height="60" as="geometry" />
+          <mxGeometry x="6341" y="-3689" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-66" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-64" target="T49xX1udKenIECwVE3pO-63">
           <mxGeometry relative="1" as="geometry" />
@@ -1353,22 +1353,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-64" value="签订合同&lt;br&gt;（客户身上只可存在一个生效的合同）" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="6394" y="-3887" width="178" height="80" as="geometry" />
+          <mxGeometry x="6312" y="-3887" width="178" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-71" value="所属机构" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7206" y="-3958" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-73" value="所属机构" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6290" y="-4230" width="120" height="80" as="geometry" />
+          <mxGeometry x="6188" y="-4256" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-74" value="所属机构" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7065" y="-3815" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-77" value="所属咨询师" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6457" y="-4227" width="120" height="80" as="geometry" />
+          <mxGeometry x="6355" y="-4253" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-79" value="所拥有合同" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6623" y="-4230" width="120" height="80" as="geometry" />
+          <mxGeometry x="6521" y="-4256" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
