@@ -1272,7 +1272,7 @@
         <mxCell id="T49xX1udKenIECwVE3pO-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-24" target="T49xX1udKenIECwVE3pO-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T49xX1udKenIECwVE3pO-24" value="所属机构（范围）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T49xX1udKenIECwVE3pO-24" value="所属机构" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6774" y="-4723" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-27" target="T49xX1udKenIECwVE3pO-36">
