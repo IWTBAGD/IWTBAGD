@@ -1223,6 +1223,13 @@
         <mxCell id="T49xX1udKenIECwVE3pO-27" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7043" y="-4451" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="T49xX1udKenIECwVE3pO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-32" target="T49xX1udKenIECwVE3pO-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7103" y="-4577" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-32" value="操作权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7175" y="-4617" width="120" height="80" as="geometry" />
         </mxCell>
