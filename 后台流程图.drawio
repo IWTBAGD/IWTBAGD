@@ -1217,6 +1217,9 @@
         <mxCell id="T49xX1udKenIECwVE3pO-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-17" target="T49xX1udKenIECwVE3pO-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="T49xX1udKenIECwVE3pO-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-17" target="T49xX1udKenIECwVE3pO-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-17" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6457" y="-4090" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1362,7 +1365,10 @@
           <mxGeometry x="6987" y="-3771" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-77" value="所属咨询师" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6442" y="-4230" width="120" height="80" as="geometry" />
+          <mxGeometry x="6457" y="-4227" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T49xX1udKenIECwVE3pO-79" value="所拥有合同" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6623" y="-4230" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
