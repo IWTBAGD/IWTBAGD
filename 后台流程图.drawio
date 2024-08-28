@@ -1300,7 +1300,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T49xX1udKenIECwVE3pO-36" value="设置角色&lt;br&gt;角色级别决定管理机构可否多选" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="T49xX1udKenIECwVE3pO-36" value="设置角色&lt;br&gt;角色级别决定所属机构可否多选" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="7009" y="-4629" width="179" height="83" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-41" value="m" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-39" target="T49xX1udKenIECwVE3pO-16">
@@ -1333,7 +1333,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T49xX1udKenIECwVE3pO-46" value="创建时确定&lt;br&gt;所属机构" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="T49xX1udKenIECwVE3pO-46" value="创建时设置&lt;br&gt;所属机构" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="6766" y="-4150" width="178" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-56" target="T49xX1udKenIECwVE3pO-19">
