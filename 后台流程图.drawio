@@ -1237,20 +1237,20 @@
         <mxCell id="T49xX1udKenIECwVE3pO-75" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-19" target="T49xX1udKenIECwVE3pO-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T49xX1udKenIECwVE3pO-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-19" target="T49xX1udKenIECwVE3pO-81">
+        <mxCell id="T49xX1udKenIECwVE3pO-82" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-19" target="T49xX1udKenIECwVE3pO-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T49xX1udKenIECwVE3pO-19" value="咨询师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6819" y="-3807" width="120" height="60" as="geometry" />
+        <mxCell id="T49xX1udKenIECwVE3pO-19" value="咨询师&lt;br&gt;（实际是管理人员的其中一种）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7009" y="-3829" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-20" target="T49xX1udKenIECwVE3pO-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T49xX1udKenIECwVE3pO-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-20" target="T49xX1udKenIECwVE3pO-83">
+        <mxCell id="T49xX1udKenIECwVE3pO-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-20" target="T49xX1udKenIECwVE3pO-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T49xX1udKenIECwVE3pO-20" value="干预师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7015" y="-3943" width="120" height="60" as="geometry" />
+        <mxCell id="T49xX1udKenIECwVE3pO-20" value="干预师&lt;div&gt;（实际是管理人员的其中一种）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7023" y="-4024" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-21" target="T49xX1udKenIECwVE3pO-39">
           <mxGeometry relative="1" as="geometry" />
@@ -1362,13 +1362,13 @@
           <mxGeometry x="6312" y="-3887" width="178" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-71" value="所属机构" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7206" y="-3958" width="120" height="80" as="geometry" />
+          <mxGeometry x="7206" y="-3946" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-73" value="所属机构" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6188" y="-4256" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-74" value="所属机构" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7065" y="-3815" width="120" height="80" as="geometry" />
+          <mxGeometry x="7316" y="-3812" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-77" value="所属咨询师" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6355" y="-4253" width="120" height="80" as="geometry" />
@@ -1377,10 +1377,10 @@
           <mxGeometry x="6521" y="-4256" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-81" value="所属角色&lt;br&gt;默认设置为咨询师" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6802" y="-3692" width="120" height="80" as="geometry" />
+          <mxGeometry x="7009" y="-3674" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-83" value="所属角色&lt;br&gt;默认设置为咨询师" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7221" y="-4070" width="120" height="80" as="geometry" />
+          <mxGeometry x="7247" y="-4035" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
