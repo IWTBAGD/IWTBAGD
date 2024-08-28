@@ -1338,8 +1338,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T49xX1udKenIECwVE3pO-56" value="所属咨询师" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="6599" y="-4001" width="178" height="80" as="geometry" />
+        <mxCell id="T49xX1udKenIECwVE3pO-56" value="创建客户&lt;br&gt;设定所属咨询师" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="6596" y="-3987" width="178" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-63" value="合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6341" y="-3689" width="120" height="60" as="geometry" />
