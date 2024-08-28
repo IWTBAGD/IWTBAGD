@@ -1300,7 +1300,7 @@
         <mxCell id="T49xX1udKenIECwVE3pO-41" value="m" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-39" target="T49xX1udKenIECwVE3pO-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T49xX1udKenIECwVE3pO-39" value="设置管理机构&lt;br&gt;根据操作" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="T49xX1udKenIECwVE3pO-39" value="设置管理机构" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="6922" y="-4386" width="178" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T49xX1udKenIECwVE3pO-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T49xX1udKenIECwVE3pO-46" target="T49xX1udKenIECwVE3pO-20">
