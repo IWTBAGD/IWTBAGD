@@ -35,7 +35,7 @@ print(package.loaded["6_Test"])
 
 --通过在执行脚本中返回其本地变量，获得其他脚本中的本地变量
 testBB = require("6_Test")
-print(testBB)
+print(testBB.."这是testBB")
 
 package.loaded["6_Test"] = nil--直接赋值为nil或者false，就能卸载该脚本
 
