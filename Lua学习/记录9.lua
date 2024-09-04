@@ -57,12 +57,14 @@ end
 --在创建一个子类，实现方法的重写
 GameObject:subClass("Player")
 function Player:Move()
-    self.base:Move()--这里base后使用:因为原方法需要导入自己，这里的base就是subClass中的父类，使用父类中的原逻辑
-    
+    self.base.Move(self)--这里的base就是subClass中的父类，使用父类中的原逻辑；所以不能使用：需要将自己调用者本身传入方法中，避免对应的逻辑执行到父类（元表）中，改变元表的值
 end
 
 --实例一个对象执行逻辑
 local p1 = Player:new()
 p1:Move()
+
+local p2 = Player:new()
+p2:Move()--由于self.base.Move(self)传入的是表自己而不是修改元表Player=>GameObject，就实现了P1，P2两者的数据独立
 
 --#endregion
