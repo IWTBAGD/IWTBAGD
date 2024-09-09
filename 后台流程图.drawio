@@ -894,7 +894,7 @@
         <mxCell id="_RRw58osfOjhplsGINs5-33" value="无法通过" style="rounded=0;whiteSpace=wrap;html=1;" parent="ehoLUz4X4ZDxg3oLdRm0-75" vertex="1">
           <mxGeometry x="153" y="179" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-74" value="财务管理-合同审核" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=#8c80ea;fillColor=#d0cee2;strokeColor=#56517e;opacity=80;" parent="ehoLUz4X4ZDxg3oLdRm0-149" vertex="1">
+        <mxCell id="ehoLUz4X4ZDxg3oLdRm0-74" value="财务管理-机构审核" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=#8c80ea;fillColor=#d0cee2;strokeColor=#56517e;opacity=80;startSize=23;" parent="ehoLUz4X4ZDxg3oLdRm0-149" vertex="1">
           <mxGeometry x="442" y="255" width="461" height="329" as="geometry">
             <mxRectangle x="227" y="137" width="135" height="26" as="alternateBounds" />
           </mxGeometry>
