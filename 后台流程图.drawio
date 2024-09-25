@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="第 1 页" id="F05l9aFnmWJKwojHecaN">
-    <mxGraphModel dx="8147" dy="6105" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7519" dy="6096" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2110,10 +2110,13 @@
           <mxGeometry x="1196" y="429" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gP7TxvFIj8E_aMs5fsMU-2" value="客户审核" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="-6306" y="-3970" width="925" height="570" as="geometry" />
+          <mxGeometry x="-6673" y="-3976" width="925" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="gP7TxvFIj8E_aMs5fsMU-3" value="外部请求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gP7TxvFIj8E_aMs5fsMU-2">
-          <mxGeometry x="64" y="49" width="120" height="60" as="geometry" />
+        <mxCell id="gP7TxvFIj8E_aMs5fsMU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gP7TxvFIj8E_aMs5fsMU-2" source="gP7TxvFIj8E_aMs5fsMU-3" target="gP7TxvFIj8E_aMs5fsMU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP7TxvFIj8E_aMs5fsMU-3" value="客户列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gP7TxvFIj8E_aMs5fsMU-2">
+          <mxGeometry x="353" y="71" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gP7TxvFIj8E_aMs5fsMU-4" value="是否为退费" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gP7TxvFIj8E_aMs5fsMU-2">
           <mxGeometry x="26" y="120" width="178" height="80" as="geometry" />
@@ -2122,7 +2125,10 @@
           <mxGeometry x="60" y="213" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gP7TxvFIj8E_aMs5fsMU-11" value="赠送天数/次数&lt;div&gt;计划暂停&lt;/div&gt;&lt;div&gt;冻结&lt;/div&gt;&lt;div&gt;解除冻结&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="gP7TxvFIj8E_aMs5fsMU-2">
-          <mxGeometry x="414" y="65" width="120" height="156" as="geometry" />
+          <mxGeometry x="764" y="68" width="120" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="gP7TxvFIj8E_aMs5fsMU-13" value="提交客户审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gP7TxvFIj8E_aMs5fsMU-2">
+          <mxGeometry x="353" y="179" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
